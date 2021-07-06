@@ -1,0 +1,6 @@
+opencv-python=4.2.0
+matplotlib
+tqdm
+ipython
+ipykernel
+jupyter
